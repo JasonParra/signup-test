@@ -1,0 +1,13 @@
+.container{
+  width: auto;
+  padding: 5px 5px;
+  background-color: #f8d9d8;
+  border: 1px solid #DE4C4A;
+}
+
+.text{
+  font-size: 0.75rem;
+  color: #DE4C4A;
+  font-weight: 400;
+  font-family: Arial, Helvetica, sans-serif;
+}

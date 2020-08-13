@@ -1,0 +1,19 @@
+.container{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center !important;
+}
+
+.input{
+  border: none;
+  border-bottom: 2px solid black;
+  font-size: 14px;
+}
+
+input:focus{
+  outline: none;
+}
+
+.icon{
+  margin-right: 10px !important;
+}
